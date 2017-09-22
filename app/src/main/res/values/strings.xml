@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Firebase Assigment</string>
+    <string name="facebook_app_id">1677961395581631</string>
+    <string name="fb_login_protocol_scheme">fb1677961395581631</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">44slSqHvtTvDnzpLu4zgrTeHP</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Nu3kmE5dMB628ErcsxVhYx3cuytDDxjjBIbykE3uFDF6TH5u3I</string>
+</resources>
